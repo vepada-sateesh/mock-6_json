@@ -1,5 +1,54 @@
 {
   "user": [
-    
+    {
+      "email": "sateesh4",
+      "username": "sateesh4",
+      "password": "sateesh4",
+      "id": 1
+    },
+    {
+      "email": "sateesh5",
+      "username": "sateesh5",
+      "password": "sateesh5",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "user": "sateesh5",
+      "date": "Sat Jan 07 2023",
+      "taskData": "this is the first task",
+      "id": 1
+    },
+    {
+      "user": "sateesh5",
+      "date": "Sat Jan 07 2023",
+      "taskData": "this is task 2",
+      "id": 2
+    },
+    {
+      "user": "sateesh5",
+      "date": "Sat Jan 07 2023",
+      "taskData": "this is task 3",
+      "id": 3
+    },
+    {
+      "user": "sateesh5",
+      "date": "Sat Jan 07 2023",
+      "taskData": "this is task 4",
+      "id": 4
+    },
+    {
+      "user": "sateesh5",
+      "date": "Sat Jan 07 2023",
+      "taskData": "this is task 5",
+      "id": 5
+    },
+    {
+      "user": "sateesh5",
+      "date": "Sat Jan 07 2023",
+      "taskData": "this is task 6",
+      "id": 6
+    }
   ]
 }
